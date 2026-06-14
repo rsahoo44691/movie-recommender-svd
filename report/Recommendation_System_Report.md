@@ -112,6 +112,10 @@ not only engagement, into their design (Stray et al., 2022).
 
 ## Method: Building the System
 
+The complete source code for the system described in this section, along with
+the dataset, the README, and this report, is available in the project's public
+GitHub repository at https://github.com/rsahoo44691/movie-recommender-svd.
+
 ### Data
 
 The project uses the MovieLens *latest-small* dataset published by GroupLens
