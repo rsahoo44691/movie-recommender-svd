@@ -12,11 +12,11 @@
 > (title and reference pages excluded).
 
 **Title:** Building a Movie Recommendation System with SVD and a Human-Centered Interface
-**Author:** [Your Name]
+**Author:** Rajesh Kumar Sahoo
 **Course:** MSAI-631 – Artificial Intelligence for Human–Computer Interaction
 **Institution:** University of the Cumberlands
-**Date:** [Submission Date]
-**GitHub repository:** [paste repository URL here]
+**Date:** June 13, 2026
+**GitHub repository:** https://github.com/rsahoo44691/movie-recommender-svd
 
 ---
 
