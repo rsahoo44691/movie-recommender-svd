@@ -17,6 +17,7 @@
 **Institution:** University of the Cumberlands
 **Date:** June 13, 2026
 **GitHub repository:** https://github.com/rsahoo44691/movie-recommender-svd
+**Live demo (Hugging Face Space):** https://huggingface.co/spaces/rajeshsahoo2006/movie-recommender-svd
 
 ---
 
@@ -114,7 +115,10 @@ not only engagement, into their design (Stray et al., 2022).
 
 The complete source code for the system described in this section, along with
 the dataset, the README, and this report, is available in the project's public
-GitHub repository at https://github.com/rsahoo44691/movie-recommender-svd.
+GitHub repository at https://github.com/rsahoo44691/movie-recommender-svd. A
+live, hosted version of the application can also be tried directly in the browser
+as a Hugging Face Space at
+https://huggingface.co/spaces/rajeshsahoo2006/movie-recommender-svd.
 
 ### Data
 

@@ -8,6 +8,9 @@ on the MovieLens ratings to guess how a person would rate a movie they have not
 seen, and then suggests the movies with the highest guessed ratings. The screen
 is built with Gradio.
 
+**Live demo:** https://huggingface.co/spaces/rajeshsahoo2006/movie-recommender-svd
+(runs in the browser, no install needed).
+
 I started from the public tutorial "Building a Movie Recommender Web App from
 Scratch with SVD and Flask" (Towards Data Science) and changed several things.
 See the "What I changed" section below.
