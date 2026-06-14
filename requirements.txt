@@ -1,0 +1,11 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.2
+
+# Web interface
+gradio==4.44.1
+# gradio 4.44.x is the last line that supports Python 3.9; it requires an
+# older huggingface_hub that still exposes HfFolder:
+huggingface_hub==0.25.2
