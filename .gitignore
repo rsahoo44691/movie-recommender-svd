@@ -7,3 +7,6 @@ venv/
 .gradio/
 flagged/
 *.log
+
+# report kept locally, not tracked in git
+report/
